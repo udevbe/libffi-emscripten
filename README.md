@@ -1,3 +1,5 @@
+build using: https://github.com/hoodmane/libffi-emscripten/blob/master/testsuite/emscripten/build.sh
+
 Status
 ======
 
