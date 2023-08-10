@@ -1,4 +1,4 @@
-build using: https://github.com/hoodmane/libffi-emscripten/blob/master/testsuite/emscripten/build.sh
+build using: [https://github.com/hoodmane/libffi-emscripten/blob/master/testsuite/emscripten/build.sh](https://github.com/udevbe/libffi-emscripten/blob/master/testsuite/emscripten/build.sh)
 
 Status
 ======
